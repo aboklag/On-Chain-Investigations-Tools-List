@@ -26,14 +26,14 @@
 
 **Data-Analysis:**
 
-- [nansen.ai](https://nansen.ai)
+- [nansen.ai](https://nansen.ai)+
 - [metasleuth.io](https://metasleuth.io)
-- [Explorers List](https://sovs.notion.site/Block-Explorers-8dcaed059c844e3b8f9b67b8eb90174a)
+- [Explorers List](https://sovs.notion.site/Block-Explorers-8dcaed059c844e3b8f9b67b8eb90174a)+
 - [explorer.0x.org](https://explorer.0x.org)
 - [watchers.pro](https://watchers.pro)
 - [0xscope.com](https://0xscope.com)
-- [dune.xyz](https://dune.xyz)
-- [snapp.wtf](https://snapp.wtf)
+- [dune.xyz](https://dune.xyz)+
+- [snapp.wtf](https://snapp.wtf)+
 - [duneninja.com for dune.xyz](https://duneninja.com)
 - [Dune Dashboard](https://twitter.com/andrewhong5297/status/1608494653573062658)
 - [Dune Extension: Web3 Wizard Helper](https://chrome.google.com/webstore/detail/web3-wizard-helper/aefehogbbakpjjegponcmdnkfjipdcfl) & [TLDR](https://twitter.com/techgeorgii/status/1633818275560710145)
@@ -44,40 +44,40 @@
 - [ethplorer.io](https://ethplorer.io)
 - [cryptoflows.info](https://cryptoflows.info)
 - [parsiq.net](https://www.parsiq.net)
-- [Maltego Transforms List](https://github.com/cipher387/maltego-transforms-list)
-- [glassnode.com](https://glassnode.com)
-- [thegraph.com](https://thegraph.com/)
-- [ledgerql.com](https://ledgerql.com)
+- [Maltego Transforms List](https://github.com/cipher387/maltego-transforms-list)+
+- [glassnode.com](https://glassnode.com)+
+- [thegraph.com](https://thegraph.com/)+
+- [ledgerql.com](https://ledgerql.com)+
 - [SpiderFoot](https://github.com/smicallef/spiderfoot)
 - [Erigon Archive Nodes](https://github.com/ledgerwatch/erigon)
 - [Alethio](https://medium.com/alethio/exploring-blockchain-data-with-alethio-aa2a541d0b4d)
-- [Tenderly Dashboard](https://dashboard.tenderly.co/tx/mainnet/0xb6c202de0a3fb3a8025f9331a0c0fd5775296ffb3d39796861953fac8b1419ef)
+- [Tenderly Dashboard](https://dashboard.tenderly.co/tx/mainnet/0xb6c202de0a3fb3a8025f9331a0c0fd5775296ffb3d39796861953fac8b1419ef)+
 - [blockchain-etl](https://github.com/blockchain-etl/ethereum-etl)
 - [tx2uml](https://github.com/naddison36/tx2uml) & [Tx2uml Example](https://twitter.com/naddison/status/1633959965990977537)
 - [oklink.com](https://www.oklink.com/en)
 - [sol2uml](https://github.com/naddison36/sol2uml)
-- [evm-trace](https://github.com/ApeWorX/evm-trace)
+- [evm-trace](https://github.com/ApeWorX/evm-trace)+
 - [spiderfoot.net](https://spiderfoot.net)
 - [www.sharkteam.org](https://www.sharkteam.org)
 - [openchain.xyz](https://openchain.xyz/)
 - [graphsense.info](https://graphsense.info)
-- [shard.ru](https://shard.ru)
+- [shard.ru](https://shard.ru)+
 - [analybits](https://analybits.xyz)
 - [flipsidecrypto.xyz](https://flipsidecrypto.xyz)
-- [cosmograph.app](https://cosmograph.app)
-- [parsec.finance](https://parsec.finance)
-- [jsoncrack.com](https://jsoncrack.com)
+- [cosmograph.app](https://cosmograph.app)+
+- [parsec.finance](https://parsec.finance)+
+- [jsoncrack.com](https://jsoncrack.com)+
 
 **Visualization:**
 
 - [phalcon.blocksec.com](https://phalcon.blocksec.com) & [PhalconV2](https://blocksecteam.medium.com/getting-started-with-phalcon-2-0-253da584ca91)
-- [Phalcon New Link](https://phalcon.xyz/)
+- [Phalcon New Link](https://phalcon.xyz/)+
 - [Icevision.xyz](https://icevision.xyz/landing)
 - [flourish.studio](https://flourish.studio)
-- [app.bubblemaps.io](https://app.bubblemaps.io/eth)
+- [app.bubblemaps.io](https://app.bubblemaps.io/eth)+
 - [explorer.bitquery.io](https://explorer.bitquery.io)
 - [cruise.supremacy.team](https://cruise.supremacy.team) & [their main page](https://twitter.com/Supremacy_CA)
-- [blockscout.com](https://blockscout.com)
+- [blockscout.com](https://blockscout.com)+
 - [ethtective.com](https://ethtective.com)
 - [breadcrumbs.app](https://breadcrumbs.app)
 - [BloodHound](https://www.thehacker.recipes/ad/recon/bloodhound)
@@ -90,7 +90,7 @@
 - [blockpath.com](https://blockpath.com)
 - [elliptic.co](https://elliptic.co)
 - [cipherblade.com](https://cipherblade.com)
-- [arkhamintelligence](https://platform.arkhamintelligence.com/waitlist)
+- [arkhamintelligence](https://platform.arkhamintelligence.com/waitlist)+
 - [Arkham - Twitter Search Beta](https://twitter.com/ArkhamIntel/status/1628431928037904386)
 - [SkyTrace](https://www.certik.com/skytrace)
 - [maltego.com](https://maltego.com/transform-hub/tatum-blockchain-explorer)
@@ -144,28 +144,28 @@
 - [the wallet analyzooor Main](https://analyzooor.super.site)
 - [the wallet analyzooor No.2](https://0xrdt-the-wallet-analyzooor-appmain-page-d9lsre.streamlitapp.com)
 - [hal.xyz](https://www.hal.xyz), example: [9000.hal.xyz](https://9000.hal.xyz); [TLDR](https://twitter.com/HAL_team/status/1460960434597470210)
-- [bytegraph.xyz](https://bytegraph.xyz)
-- [Gephi](https://gephi.org/users/download)
+- [bytegraph.xyz](https://bytegraph.xyz)+
+- [Gephi](https://gephi.org/users/download)+
 - [Tenderly Explorer](https://docs.tenderly.co/explorer)
 - [RolodETH Ethereum tag system](https://github.com/verynifty/RolodETH)
 - [ethcmd](https://github.com/bit-warrior/ethcmd)
 - [Surya](https://github.com/ConsenSys/surya)
 - [dexterlab.com](https://dexterlab.com)
-- [dappradar.com](https://dappradar.com)
-- [dextools.io](https://www.dextools.io/app/)
-- [uniwhales.io](https://uniwhales.io)
+- [dappradar.com](https://dappradar.com)+
+- [dextools.io](https://www.dextools.io/app/)+
+- [uniwhales.io](https://uniwhales.io)+
 - [flipsidecrypto.xyz](https://sdk.flipsidecrypto.xyz/shroomdk)
 - [superchain.network](https://superchain.network)
-- [blocknative.com](https://www.blocknative.com)
+- [blocknative.com](https://www.blocknative.com)+
 - [secretnodes.com](https://secretnodes.com)
-- [bytegraph.xyz](https://bytegraph.xyz/)
-- [de.fi/scanner](https://de.fi/scanner)
-- [earni.fi](https://earni.fi/)
-- [Uniscan](https://github.com/uni-arts-chain/uniscan)
-- [purefi.io](https://purefi.io)
-- [www.chainabuse.com](https://www.chainabuse.com)
+- [bytegraph.xyz](https://bytegraph.xyz/)+
+- [de.fi/scanner](https://de.fi/scanner)+
+- [earni.fi](https://earni.fi/)+
+- [Uniscan](https://github.com/uni-arts-chain/uniscan)+
+- [purefi.io](https://purefi.io)+
+- [www.chainabuse.com](https://www.chainabuse.com)+
 - [cryptoscamdb.org](https://cryptoscamdb.org)
-- [A VSCode extension for inspecting solidity smartcontracts using Forge](https://github.com/PraneshASP/vscode-solidity-inspector)
+- [A VSCode extension for inspecting solidity smartcontracts using Forge](https://github.com/PraneshASP/vscode-solidity-inspector)+
 - [getblock](https://getblock.net)
 - [coinalyze.net](https://coinalyze.net)
 - [Smart Contract Storage Slot Reader](https://evm-slotreader.on.fleek.co)
